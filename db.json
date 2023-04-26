@@ -8,7 +8,8 @@
       "year": 2022,
       "genre": "Action",
       "IMDB_Rating": 6.8,
-      "ticket": 200
+      "ticket": 200,
+      "booked": false
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "year": 2007,
       "genre": "Horror",
       "IMDB_Rating": 7.2,
-      "ticket": 200
+      "ticket": 200,
+      "booked": false
     }
   ],
   "login": [],
